@@ -39,9 +39,3 @@ Computer Science Engineer with experience in fullstack development and process a
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cgmg3-ua&show_icons=true&theme=default&hide_border=true&count_private=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgmg3-ua&layout=compact&hide_border=true&theme=default" height="140" />
-</div>
