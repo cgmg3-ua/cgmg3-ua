@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:8ab4d4&height=200&section=header&text=Carlos%20Guirao&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Data%20Engineering%20%26%20ML&descAlignY=58&descSize=18&descColor=8ab4d4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:8ab4d4&height=300&section=header&text=Carlos%20Guirao&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Engineer%20%7C%20Data%20Engineering%20%26%20ML&descAlignY=62&descSize=22&descColor=8ab4d4&animation=fadeIn)
 
 <div align="center">
 
