@@ -1,4 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:8ab4d4&height=300&section=header&text=Carlos%20Guirao&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Engineer%20%7C%20Data%20Engineering%20%26%20ML&descAlignY=62&descSize=22&descColor=8ab4d4&animation=fadeIn)
+<div align="center">
+
+![banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&background=1A2A3A&center=true&vCenter=true&width=800&height=120&lines=Carlos+Guirao;Computer+Science+Engineer;Data+Engineering+%26+ML)
+
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=8AB4D4&center=true&vCenter=true&width=800&height=40&lines=Fullstack+Developer+%7C+RPA+Automation+%7C+Data+Enthusiast)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -66,4 +74,6 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8ab4d4,100:1a2a3a&height=120&section=footer)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8AB4D4&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B" />
+</div>
